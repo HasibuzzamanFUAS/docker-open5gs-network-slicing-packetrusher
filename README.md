@@ -59,7 +59,7 @@ Docker and Docker Compose. And Implementation of a management and orchestration 
 
 ![image](https://github.com/MobileComputingWiSe24-25/mobcom-team_stamhs_5g/blob/main/resources/images/System%20Architecture.jpg)
 
-Further deployment description [here](https://github.com/MobileComputingWiSe24-25/mobcom-team_stamhs_5g/blob/main/documentation/opengs-network-slicing.md)
+Further deployment description [here](https://github.com/HasibuzzamanFUAS/docker-open5gs-network-slicing-packetrusher/blob/main/documentation/opengs-network-slicing.md) and [here](https://github.com/HasibuzzamanFUAS/docker-open5gs-network-slicing-packetrusher/blob/main/documentation/README.md)
 
 ## Requirements
 
