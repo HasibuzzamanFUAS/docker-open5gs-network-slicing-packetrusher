@@ -1,0 +1,46 @@
+gnodeb:
+  controlif:
+    ip: gnb-3.packetrusher.org
+    port: 38412
+  dataif:
+    ip: gnb-3.packetrusher.org
+    port: 2152
+  plmnlist:
+    mcc: "262"
+    mnc: "02"
+    tac: "000003"
+    gnbid: "000009"
+  slicesupportlist:
+    sst: "03"
+    sd: "000001"
+
+ue:
+  msin: "1234567893"
+  key: "00000000000000000000000000000000"
+  opc: "00000000000000000000000000000000"
+  amf: "8000"
+  sqn: "00000000"
+  dnn: "internet"
+  routingindicator: "0000"
+  hplmn:
+    mcc: "262"
+    mnc: "02"
+  snssai:
+    sst: 03
+    sd: "000001"
+  integrity:
+    nia0: false
+    nia1: false
+    nia2: true
+    nia3: false
+  ciphering:
+    nea0: true
+    nea1: false
+    nea2: true
+    nea3: false
+
+amfif:
+  - ip: amf3.open5gs.org
+    port: 38412
+logs:
+  level: 4
