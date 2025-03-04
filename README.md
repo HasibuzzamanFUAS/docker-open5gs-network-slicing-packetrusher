@@ -35,6 +35,7 @@
      - [Configure it](#step-2-configure-it)
      - [Build The Docker Images](#step-3-build-the-docker-images)
      - [Run The Containers](#step-4-run-the-containers)
+     - [Testing](#testing)
 *   [Limitations](#limitations)
 *   [Conclusion](#conclusion)
 
